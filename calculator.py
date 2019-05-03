@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 #
 
 
 # LALALALALALALA
+=======
+# we are on the test branch
+>>>>>>> test
 Active Ingredient Price List(Cents per Gram)
 price_per_gram = {
     "fluoxetine": 240,
